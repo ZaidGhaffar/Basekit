@@ -1,0 +1,10 @@
+python-dotenv
+fastapi[standard]
+redis
+sqlalchemy
+asyncpg
+pandas
+numpy
+dotenv
+pyjwt
+cryptography
