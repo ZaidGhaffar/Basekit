@@ -99,3 +99,11 @@ Never claim something was tested if it was not; briefly say if testing was unava
 **Existing patterns > new patterns. Libraries > custom code. Simple > clever.**
 **Working code > unnecessary perfection.**
 Understand → reuse → implement → test → briefly report.
+
+
+### Important
+Never use this inside of you're code:
+
+setattr
+getattr
+isinstance
